@@ -12,7 +12,7 @@ html {
     nav {
         min-height: 100%;
         width: 20vw;
-        position: absolute;
+        position: fixed;
         left: auto;
         right: auto;
         background-color: #716c4d;
@@ -58,15 +58,21 @@ html {
     }
 }
 
-.blog1 div {
+.subblog div {
     min-height: 100vh;
     background-color: #2a2b22;
     margin-left: 20vw;
-    width: auto;
+    width: auto;        
 
     a {
         text-decoration: none;
         color: #C0C0C0;
+    }
+
+    hr {
+        margin-left: 10vw;
+        margin-right: 10vw;
+        background-color: #FFD700;
     }
 
     h1 {
@@ -79,6 +85,14 @@ html {
     p {
         padding-top: 5vh;
         margin-left: 10vw;
+        margin-right: 10vw;
         color: #9f9895;
+    }
+
+    img {
+        width: 20vw;
+        height: 20vh;
+        display: inline-flex;
+        margin-left: 50vw;
     }
 }

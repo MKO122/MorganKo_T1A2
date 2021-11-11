@@ -10,7 +10,7 @@ html {
 .nav-header nav {
   min-height: 100vh;
   width: 20vw;
-  position: absolute;
+  position: fixed;
   left: auto;
   right: auto;
   background-color: #716c4d;

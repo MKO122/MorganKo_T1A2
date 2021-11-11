@@ -409,7 +409,7 @@ html {
 .nav-header nav {
   min-height: 100%;
   width: 20vw;
-  position: fixed;
+  position: absolute;
   left: auto;
   right: auto;
   background-color: #716c4d;
