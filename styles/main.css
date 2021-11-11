@@ -10,7 +10,7 @@ html {
 .nav-header nav {
   min-height: 100vh;
   width: 20vw;
-  position: absolute;
+  position: fixed;
   left: auto;
   right: auto;
   background-color: #716c4d;
@@ -80,6 +80,14 @@ html {
   color: #9f9895;
 }
 
+.landing div footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
 * {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -92,7 +100,7 @@ html {
 .nav-header nav {
   min-height: 100vh;
   width: 20vw;
-  position: absolute;
+  position: fixed;
   left: auto;
   right: auto;
   background-color: #716c4d;
@@ -197,6 +205,14 @@ html {
   font-size: medium;
 }
 
+.about div footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
 * {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -209,7 +225,7 @@ html {
 .nav-header nav {
   min-height: 100vh;
   width: 20vw;
-  position: absolute;
+  position: fixed;
   left: auto;
   right: auto;
   background-color: #716c4d;
@@ -301,6 +317,14 @@ html {
   font-weight: 100;
 }
 
+.blog div footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
 * {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -313,7 +337,7 @@ html {
 .nav-header nav {
   min-height: 100vh;
   width: 20vw;
-  position: absolute;
+  position: fixed;
   left: auto;
   right: auto;
   background-color: #716c4d;
@@ -500,5 +524,13 @@ html {
   display: -ms-inline-flexbox;
   display: inline-flex;
   margin-left: 50vw;
+}
+
+.subblog div footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 /*# sourceMappingURL=main.css.map */

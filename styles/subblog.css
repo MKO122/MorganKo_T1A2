@@ -102,4 +102,12 @@ html {
   display: inline-flex;
   margin-left: 50vw;
 }
+
+.subblog div footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
 /*# sourceMappingURL=subblog.css.map */
