@@ -8,7 +8,7 @@ html {
 }
 
 .nav-header nav {
-  min-height: 100vh;
+  min-height: 100%;
   width: 20vw;
   position: absolute;
   left: auto;
@@ -62,43 +62,28 @@ html {
   }
 }
 
-.blog div {
+.blog1 div {
   min-height: 100vh;
   background-color: #2a2b22;
   margin-left: 20vw;
   width: auto;
 }
 
-.blog div a {
+.blog1 div a {
   text-decoration: none;
   color: #C0C0C0;
 }
 
-.blog div h1 {
+.blog1 div h1 {
   padding-top: 10vh;
   margin-left: 10vw;
   color: #C0C0C0;
   font-weight: 500;
 }
 
-.blog div h3 {
+.blog1 div p {
   padding-top: 5vh;
   margin-left: 10vw;
   color: #9f9895;
-  font-weight: 500;
 }
-
-.blog div h5 {
-  padding-top: 1vh;
-  margin-left: 10vw;
-  color: #9f9895;
-  font-weight: 500;
-}
-
-.blog div h6 {
-  padding-top: 1vh;
-  margin-left: 10vw;
-  color: #9f9895;
-  font-weight: 100;
-}
-/*# sourceMappingURL=blog.css.map */
+/*# sourceMappingURL=blog1.css.map */

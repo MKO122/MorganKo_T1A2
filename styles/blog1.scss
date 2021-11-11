@@ -10,7 +10,7 @@ html {
 .nav-header {
 
     nav {
-        min-height: 100vh;
+        min-height: 100%;
         width: 20vw;
         position: absolute;
         left: auto;
@@ -58,7 +58,7 @@ html {
     }
 }
 
-.blog div {
+.blog1 div {
     min-height: 100vh;
     background-color: #2a2b22;
     margin-left: 20vw;
@@ -76,24 +76,9 @@ html {
         font-weight: 500;
     }
 
-    h3 {
+    p {
         padding-top: 5vh;
         margin-left: 10vw;
         color: #9f9895;
-        font-weight: 500;
-    }
-
-    h5 {
-        padding-top: 1vh;
-        margin-left: 10vw;
-        color: #9f9895;
-        font-weight: 500;
-    }
-
-    h6 {
-        padding-top: 1vh;
-        margin-left: 10vw;
-        color: #9f9895;
-        font-weight: 100;
     }
 }
