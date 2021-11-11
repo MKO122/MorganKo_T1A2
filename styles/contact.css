@@ -61,4 +61,36 @@ html {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
   }
 }
+
+.contact div {
+  min-height: 100vh;
+  background-color: #2a2b22;
+  margin-left: 20vw;
+  width: auto;
+}
+
+.contact div a {
+  text-decoration: none;
+  color: #9f9895;
+}
+
+.contact div img {
+  width: 16px;
+  height: 16px;
+  background-color: #d7c7a0;
+}
+
+.contact div h1 {
+  padding-top: 10vh;
+  margin-left: 5vw;
+  color: #C0C0C0;
+  font-weight: 600;
+}
+
+.contact div h3 {
+  padding-top: 5vh;
+  margin-left: 5vw;
+  color: #9f9895;
+  font-weight: 300;
+}
 /*# sourceMappingURL=contact.css.map */

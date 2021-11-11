@@ -6,6 +6,7 @@
 html {
     scroll-behavior: smooth;
 }
+
 .nav-header {
 
     nav {
@@ -55,4 +56,37 @@ html {
     @media screen and (min-device-width: 601px) and (max-device-width: 1025) {
         font-size: calc(16px + 6 * ((100vw - 320px) / 680));
     }
+}
+
+.contact div {
+    min-height: 100vh;
+    background-color: #2a2b22;
+    margin-left: 20vw;
+    width: auto;
+
+    a {
+        text-decoration: none;
+        color: #9f9895;
+    }
+
+    img {
+        width: 16px;
+        height: 16px;
+        background-color: #d7c7a0;
+    }
+
+    h1 {
+        padding-top: 10vh;
+        margin-left: 5vw;
+        color: #C0C0C0;
+        font-weight: 600;
+    }
+
+    h3 {
+        padding-top: 5vh;
+        margin-left: 5vw;
+        color: #9f9895;;
+        font-weight: 300;
+    }
+
 }
