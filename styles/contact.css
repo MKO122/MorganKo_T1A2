@@ -93,4 +93,12 @@ html {
   color: #9f9895;
   font-weight: 300;
 }
+
+.contact div footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
 /*# sourceMappingURL=contact.css.map */
