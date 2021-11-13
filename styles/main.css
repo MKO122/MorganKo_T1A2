@@ -51,15 +51,29 @@ html {
   padding: 1vw;
 }
 
-@media screen and (min-device-width: 320px) and (max-device-width: 600) {
+.nav-header footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  text-align: left;
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 600px) {
   .nav-header {
-    font-size: 8px;
+    font-size: 12px;
   }
 }
 
-@media screen and (min-device-width: 601px) and (max-device-width: 1025) {
+@media screen and (min-device-width: 601px) and (max-device-width: 1025px) {
   .nav-header {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+  }
+}
+
+@media screen and (min-device-width: 1026px) and (max-device-width: 5120px) {
+  .nav-header {
+    font-size: calc(24px + 6 * ((100vw - 320px) / 680));
   }
 }
 
@@ -86,7 +100,7 @@ html {
   display: block;
   position: absolute;
   bottom: 0;
-  right: 0;
+  left: 50%;
 }
 
 * {
@@ -141,15 +155,29 @@ html {
   padding: 1vw;
 }
 
-@media screen and (min-device-width: 320px) and (max-device-width: 600) {
+.nav-header footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  text-align: left;
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 600px) {
   .nav-header {
-    font-size: 8px;
+    font-size: 12px;
   }
 }
 
-@media screen and (min-device-width: 601px) and (max-device-width: 1025) {
+@media screen and (min-device-width: 601px) and (max-device-width: 1025px) {
   .nav-header {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+  }
+}
+
+@media screen and (min-device-width: 1026px) and (max-device-width: 5120px) {
+  .nav-header {
+    font-size: calc(24px + 6 * ((100vw - 320px) / 680));
   }
 }
 
@@ -206,13 +234,6 @@ html {
   font-size: medium;
 }
 
-.about div footer {
-  color: #C0C0C0;
-  display: block;
-  position: static;
-  text-align: end;
-}
-
 * {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -265,15 +286,29 @@ html {
   padding: 1vw;
 }
 
-@media screen and (min-device-width: 320px) and (max-device-width: 600) {
+.nav-header footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  text-align: left;
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 600px) {
   .nav-header {
-    font-size: 8px;
+    font-size: 12px;
   }
 }
 
-@media screen and (min-device-width: 601px) and (max-device-width: 1025) {
+@media screen and (min-device-width: 601px) and (max-device-width: 1025px) {
   .nav-header {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+  }
+}
+
+@media screen and (min-device-width: 1026px) and (max-device-width: 5120px) {
+  .nav-header {
+    font-size: calc(24px + 6 * ((100vw - 320px) / 680));
   }
 }
 
@@ -321,7 +356,7 @@ html {
   color: #C0C0C0;
   display: block;
   position: static;
-  text-align: end;
+  text-align: center;
 }
 
 * {
@@ -376,15 +411,29 @@ html {
   padding: 1vw;
 }
 
-@media screen and (min-device-width: 320px) and (max-device-width: 600) {
+.nav-header footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  text-align: left;
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 600px) {
   .nav-header {
-    font-size: 8px;
+    font-size: 12px;
   }
 }
 
-@media screen and (min-device-width: 601px) and (max-device-width: 1025) {
+@media screen and (min-device-width: 601px) and (max-device-width: 1025px) {
   .nav-header {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+  }
+}
+
+@media screen and (min-device-width: 1026px) and (max-device-width: 5120px) {
+  .nav-header {
+    font-size: calc(24px + 6 * ((100vw - 320px) / 680));
   }
 }
 
@@ -425,7 +474,7 @@ html {
   display: block;
   position: absolute;
   bottom: 0;
-  right: 0;
+  left: 50%;
 }
 
 * {
@@ -480,15 +529,29 @@ html {
   padding: 1vw;
 }
 
-@media screen and (min-device-width: 320px) and (max-device-width: 600) {
+.nav-header footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  text-align: left;
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 600px) {
   .nav-header {
-    font-size: 8px;
+    font-size: 12px;
   }
 }
 
-@media screen and (min-device-width: 601px) and (max-device-width: 1025) {
+@media screen and (min-device-width: 601px) and (max-device-width: 1025px) {
   .nav-header {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+  }
+}
+
+@media screen and (min-device-width: 1026px) and (max-device-width: 5120px) {
+  .nav-header {
+    font-size: calc(24px + 6 * ((100vw - 320px) / 680));
   }
 }
 
@@ -517,6 +580,13 @@ html {
   font-weight: 500;
 }
 
+.subblog div h6 {
+  padding-top: 1vh;
+  margin-left: 10vw;
+  color: #9f9895;
+  font-weight: 100;
+}
+
 .subblog div p {
   padding-top: 5vh;
   margin-left: 10vw;
@@ -537,6 +607,6 @@ html {
   color: #C0C0C0;
   display: block;
   position: static;
-  text-align: end;
+  text-align: center;
 }
 /*# sourceMappingURL=main.css.map */

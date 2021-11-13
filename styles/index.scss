@@ -51,11 +51,21 @@ html {
         padding: 1vw;
     }
 
-    @media screen and (min-device-width: 320px) and (max-device-width: 600) {
-        font-size: 8px;
+    footer {
+        color: #C0C0C0;
+        display: block;
+        position: absolute; bottom: 0;
+        text-align: left;
     }
-    @media screen and (min-device-width: 601px) and (max-device-width: 1025) {
+
+    @media screen and (min-device-width: 320px) and (max-device-width: 600px) {
+        font-size: 12px;
+    }
+    @media screen and (min-device-width: 601px) and (max-device-width: 1025px) {
         font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+    }
+    @media screen and (min-device-width: 1026px) and (max-device-width: 5120px) {
+        font-size: calc(24px + 6 * ((100vw - 320px) / 680));
     }
 }
 
@@ -80,8 +90,6 @@ html {
     footer {
         color: #C0C0C0;
         display: block;
-        position: absolute;
-        bottom: 0;
-        right: 0;
+        position: absolute; bottom: 0; left: 50%;
     }
 }
