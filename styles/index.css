@@ -51,8 +51,16 @@ html {
   padding: 1vw;
 }
 
+.nav-header footer {
+  color: #C0C0C0;
+  display: block;
+  position: absolute;
+  bottom: 2vh;
+  text-align: left;
+}
+
 @media screen and (min-device-width: 320px) and (max-device-width: 600px) {
-  .nav-header ul {
+  .nav-header {
     font-size: 12px;
   }
 }
@@ -60,6 +68,12 @@ html {
 @media screen and (min-device-width: 601px) and (max-device-width: 1025px) {
   .nav-header {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+  }
+}
+
+@media screen and (min-device-width: 1026px) and (max-device-width: 5120px) {
+  .nav-header {
+    font-size: calc(24px + 6 * ((100vw - 320px) / 680));
   }
 }
 
