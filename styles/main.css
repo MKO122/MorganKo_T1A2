@@ -209,9 +209,8 @@ html {
 .about div footer {
   color: #C0C0C0;
   display: block;
-  position: absolute;
-  bottom: 0;
-  right: 0;
+  position: static;
+  text-align: end;
 }
 
 * {
@@ -321,9 +320,8 @@ html {
 .blog div footer {
   color: #C0C0C0;
   display: block;
-  position: absolute;
-  bottom: 0;
-  right: 0;
+  position: static;
+  text-align: end;
 }
 
 * {

@@ -97,7 +97,8 @@ html {
 .contact div footer {
   color: #C0C0C0;
   display: block;
-  position: static;
-  text-align: end;
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 /*# sourceMappingURL=contact.css.map */
