@@ -29,6 +29,7 @@ html {
         position: relative;
         justify-content: center;
         border: 2px solid;
+        border-color: #8b592e;
         background-color: #d7c7a0;
     }
 
@@ -79,6 +80,7 @@ html {
     footer {
         color: #C0C0C0;
         display: block;
-        position: absolute; bottom: 0; right: 0;
+        position: static;
+        text-align: end;
     }
 }
