@@ -23,7 +23,7 @@ This site includes a homepage which identifies the developer with a vertical nav
 
 A sitemap can be viewed here![Sitemap](/ppt/img/Sitemap.png)
 
-Screenshots can be viewed in Morgan_T1A2/ppt/img
+Screenshots can be viewed in Morgan_T1A2/ppt/img and Morgan_T1A2/Wireframes.bmpr
 
 The target audience is primarily potential employers and clients looking to recruit a junior full stack developer or commission a project based off their knowledge and ability.
 
