@@ -1,3 +1,15 @@
+commit 8939b0bffd463864319239b4fe09168fd66ff516
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Sun Nov 14 22:09:36 2021 +1100
+
+    SHA keys generated
+
+commit 5d8cee11ab854eeb66e3e054ef2b620ce73699c5
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Sun Nov 14 21:33:13 2021 +1100
+
+    Center div, readme, footer and ppt+img
+
 commit 07deb392b96164520c5bf8d3ac9085f053bbe47b
 Author: MKO122 <morgan.and.ko@hotmail.com>
 Date:   Sat Nov 13 17:47:59 2021 +1100

@@ -21,9 +21,15 @@ It's purpose is to showcase the personality, knowledge and abilities of the deve
 
 This site includes a homepage which identifies the developer with a vertical navigation bar so that they may explore the space. This links to other sections that currently include but not limited to; an 'About Me' section to learn more about the developer's interests, experiences and academic qualifications; A 'Blog' where the developer may share and showcase interesting pieces of information and news; And a 'Contact' page that allows for multi-channel communications.
 
-A sitemap can be viewed here![Sitemap](/ppt/img/Sitemap.png)
+A sitemap can be viewed here
+![Sitemap](/ppt/img/Sitemap.png)
 
-Screenshots can be viewed in Morgan_T1A2/ppt/img and Morgan_T1A2/Wireframes.bmpr
+Screenshots of the website can can be viewed here
+![Index](ppt/img/LIndex.png)
+![AboutMe](ppt/img/LAbout%20Me.png)
+![Blog](ppt/img/LBlog.png)
+![Subblog](ppt/img/LSubblog.png)
+![Contact](ppt/img/LContact.png)
 
 The target audience is primarily potential employers and clients looking to recruit a junior full stack developer or commission a project based off their knowledge and ability.
 
