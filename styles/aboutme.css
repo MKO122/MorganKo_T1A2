@@ -64,13 +64,13 @@ html {
   }
 }
 
-@media screen and (min-device-width: 601px) and (max-device-width: 1025px) {
+@media screen and (min-device-width: 601px) and (max-device-width: 1600px) {
   .nav-header {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
   }
 }
 
-@media screen and (min-device-width: 1026px) and (max-device-width: 5120px) {
+@media screen and (min-device-width: 1601px) and (max-device-width: 5120px) {
   .nav-header {
     font-size: calc(24px + 6 * ((100vw - 320px) / 680));
   }
@@ -85,28 +85,32 @@ html {
 
 .about div h1 {
   padding-top: 10vh;
-  margin-left: 5vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
   color: #C0C0C0;
   font-weight: 500;
 }
 
 .about div h2 {
   padding-top: 10vh;
-  margin-left: 5vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
   color: #C0C0C0;
   font-weight: 400;
 }
 
 .about div h3 {
   padding-top: 5vh;
-  margin-left: 5vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
   color: #9f9895;
   font-weight: 300;
 }
 
 .about div h4 {
   padding-top: 5vh;
-  margin-left: 5vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
   color: #9f9895;
   font-weight: 200;
 }
@@ -114,7 +118,8 @@ html {
 .about div ul {
   list-style-type: none;
   color: #9f9895;
-  margin-left: 5vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
   margin-top: 2vh;
   padding: 0;
 }

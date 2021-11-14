@@ -64,13 +64,13 @@ html {
   }
 }
 
-@media screen and (min-device-width: 601px) and (max-device-width: 1025px) {
+@media screen and (min-device-width: 601px) and (max-device-width: 1600px) {
   .nav-header {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
   }
 }
 
-@media screen and (min-device-width: 1026px) and (max-device-width: 5120px) {
+@media screen and (min-device-width: 1601px) and (max-device-width: 5120px) {
   .nav-header {
     font-size: calc(24px + 6 * ((100vw - 320px) / 680));
   }
@@ -81,6 +81,10 @@ html {
   background-color: #2a2b22;
   margin-left: 20vw;
   width: auto;
+}
+
+.blog div article {
+  margin-right: 10vw;
 }
 
 .blog div a {
@@ -114,12 +118,5 @@ html {
   margin-left: 10vw;
   color: #9f9895;
   font-weight: 100;
-}
-
-.blog div footer {
-  color: #C0C0C0;
-  display: block;
-  position: static;
-  text-align: center;
 }
 /*# sourceMappingURL=blog.css.map */

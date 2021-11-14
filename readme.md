@@ -1,25 +1,30 @@
-README
+# README
 
--A link (URL) to your published portfolio website
--A link to your GitHub repo
--Description of your portfolio website, including,
--Purpose
--Functionality / features
--Sitemap
--Screenshots
--Target audience
--Tech stack (e.g. html, css, deployment platform, etc)
+## A link (URL) to your published portfolio website
+[Portfolio](https://mko-portfolio.netlify.app/)
 
-SLIDEDECK
+## A link to your GitHub repo
+[Github](https://github.com/MKO122/MorganKo_T1A2)
 
--A walk-through of your portfolio website and its features
--A walk-through of your design process and decisions
--A review of your development/build process including challenges, ethical issues, favourite parts, etc
+## Description of your portfolio website, including,
 
-Deliverables
+- Purpose
+- Functionality / features
+- Sitemap
+- Screenshots
+- Target audience
+- Tech stack (e.g. html, css, deployment platform, etc)
 
--README document
--Gitlog: A file named gitlog.txt is to be included. This file can be generated using the command git log > gitlog.txt.
--Resources: All resources included in this folder must be in either png, jpeg, pdf, or markdown (md) format
--Presentation: Slide Deck in pdf format 
--Source code: 
+This website is designed with a thematic to reflect the persona of the developer.
+
+It's purpose is to showcase the personality, knowledge and abilities of the developer so inteerested parties are able to reach out and express their interest in any form.
+
+This site includes a homepage which identifies the developer with a vertical navigation bar so that they may explore the space. This links to other sections that currently include but not limited to; an 'About Me' section to learn more about the developer's interests, experiences and academic qualifications; A 'Blog' where the developer may share and showcase interesting pieces of information and news; And a 'Contact' page that allows for multi-channel communications.
+
+A sitemap can be viewed here![Sitemap](/ppt/img/Sitemap.png)
+
+Screenshots can be viewed in Morgan_T1A2/ppt/img
+
+The target audience is primarily potential employers and clients looking to recruit a junior full stack developer or commission a project based off their knowledge and ability.
+
+The current stack utilised for this website is html, css and SASS.

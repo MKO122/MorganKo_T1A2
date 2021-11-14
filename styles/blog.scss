@@ -60,10 +60,10 @@ html {
     @media screen and (min-device-width: 320px) and (max-device-width: 600px) {
         font-size: 12px;
     }
-    @media screen and (min-device-width: 601px) and (max-device-width: 1025px) {
+    @media screen and (min-device-width: 601px) and (max-device-width: 1600px) {
         font-size: calc(16px + 6 * ((100vw - 320px) / 680));
     }
-    @media screen and (min-device-width: 1026px) and (max-device-width: 5120px) {
+    @media screen and (min-device-width: 1601px) and (max-device-width: 5120px) {
         font-size: calc(24px + 6 * ((100vw - 320px) / 680));
     }
 }
@@ -73,6 +73,10 @@ html {
     background-color: #2a2b22;
     margin-left: 20vw;
     width: auto;
+
+    article {
+        margin-right: 10vw;
+    }
 
     a {
         text-decoration: none;
@@ -105,13 +109,6 @@ html {
         margin-left: 10vw;
         color: #9f9895;
         font-weight: 100;
-    }
-
-    footer {
-        color: #C0C0C0;
-        display: block;
-        position: static;
-        text-align: center;
     }
 }
 

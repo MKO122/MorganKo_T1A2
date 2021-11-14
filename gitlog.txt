@@ -1,0 +1,77 @@
+commit 07deb392b96164520c5bf8d3ac9085f053bbe47b
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Sat Nov 13 17:47:59 2021 +1100
+
+    Once again, it is the footer
+
+commit 2504858512cbadb9ca7ab03cdf6b0ce656c425bb
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Sat Nov 13 17:44:11 2021 +1100
+
+    Final footer, date added to subblogs and media queries
+
+commit 9c38074c7e06d8fca9ce50c1b597369919003d31
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Sat Nov 13 16:15:12 2021 +1100
+
+    Footer correction...again
+
+commit 304fb6a1ac6cd795cd46ee336eee14191aeba67a
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Sat Nov 13 15:53:43 2021 +1100
+
+    Subblogs & footer correction
+
+commit 6c7ecfcdc3815b3486c30b65099253ac00ae2dd2
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Fri Nov 12 10:20:58 2021 +1100
+
+    Small misc troubleshoots
+
+commit 77ec63c988386778f6efd3c4ae35eac5529baa44
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Fri Nov 12 05:11:37 2021 +1100
+
+    Footer
+
+commit 610b158b41018deaecdf4fd8de5903c6228000af
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Fri Nov 12 04:50:27 2021 +1100
+
+    Time tag
+
+commit 63d9272d09ead13df3aa5bf6c29f4382c92204ba
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Thu Nov 11 23:35:29 2021 +1100
+
+    Navbar (vh)-> Position fixed &  subblog 1
+
+commit ea26695e5167d7efe36db8355416eb2189ec689e
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Thu Nov 11 19:05:22 2021 +1100
+
+    Main blog, subblog v1
+
+commit 60456d34f261b7fa70b3e48f8152cb2e09026985
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Thu Nov 11 17:36:23 2021 +1100
+
+    Contacts page and links
+
+commit 0183e0d89354ca0a1dcf18e6d2b7874d1acc7995
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Thu Nov 11 15:33:37 2021 +1100
+
+    About Me page, attached Lorem Ipsum CV
+
+commit 5ca767c9afc10e3c327f9ba67f2fa2b67f47d153
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Thu Nov 11 14:18:31 2021 +1100
+
+    Core pages, colour scheme, scss and basic layout
+
+commit e1df4b6f261b368181745f6534aafe6b601d2dbe
+Author: MKO122 <morgan.and.ko@hotmail.com>
+Date:   Fri Nov 5 16:02:34 2021 +1100
+
+    initial commit

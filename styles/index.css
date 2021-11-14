@@ -65,13 +65,13 @@ html {
   }
 }
 
-@media screen and (min-device-width: 601px) and (max-device-width: 1025px) {
+@media screen and (min-device-width: 601px) and (max-device-width: 1600px) {
   .nav-header {
     font-size: calc(16px + 6 * ((100vw - 320px) / 680));
   }
 }
 
-@media screen and (min-device-width: 1026px) and (max-device-width: 5120px) {
+@media screen and (min-device-width: 1601px) and (max-device-width: 5120px) {
   .nav-header {
     font-size: calc(24px + 6 * ((100vw - 320px) / 680));
   }
@@ -86,20 +86,14 @@ html {
 
 .landing div h1 {
   padding-top: 10vh;
-  margin-left: 5vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
   color: #C0C0C0;
 }
 
 .landing div h2 {
-  margin-left: 5vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
   color: #9f9895;
-}
-
-.landing div footer {
-  color: #C0C0C0;
-  display: block;
-  position: absolute;
-  bottom: 0;
-  left: 50%;
 }
 /*# sourceMappingURL=index.css.map */
