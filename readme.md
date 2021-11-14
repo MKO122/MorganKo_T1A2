@@ -34,3 +34,5 @@ Screenshots of the website can can be viewed here
 The target audience is primarily potential employers and clients looking to recruit a junior full stack developer or commission a project based off their knowledge and ability.
 
 The current stack utilised for this website is html, css and SASS.
+
+I have also attached a link here [Presentation](https://view.genial.ly/618a4a5682bee00d47832e40/guide-portfolio) to view the presentation in it's live form as the offline version in pdf is not as responsive, detailed or dynamic.
